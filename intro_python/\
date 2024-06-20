@@ -1,0 +1,7 @@
+from random import randint
+
+nbs = []
+for i in range(1, 7):
+    nbs.append(randint(1, 6))
+    
+print(nbs)
