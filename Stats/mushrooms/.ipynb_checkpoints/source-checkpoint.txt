@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/uciml/mushroom-classification?sort=votes
+https://archive.ics.uci.edu/ml/datasets/Mushroom
+
