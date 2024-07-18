@@ -1,0 +1,3 @@
+https://developers.google.com/machine-learning/crash-course/california-housing-data-description
+
+https://www.kaggle.com/datasets/camnugent/california-housing-prices
