@@ -1,4 +1,5 @@
 lib*
 share
 bin
+.ipynb_checkpoints/
 
